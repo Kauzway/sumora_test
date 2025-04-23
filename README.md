@@ -22,7 +22,7 @@ Sumora AI is an intelligent presentation analysis tool that leverages AI to auto
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.9+
 - Groq API key ([Get one here](https://console.groq.com/))
 - Tesseract OCR (for image text extraction)
 
